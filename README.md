@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 📊 GitHub Activity
-
-![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshs760&show_icons=true&theme=default&hide_border=true)
-
 ### 📫 Let's Connect
 
 <p align="left">
