@@ -26,9 +26,7 @@
 
 ### 📊 GitHub Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshs760&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=434D56&icon_color=2F80ED" alt="Yogesh's GitHub Stats" />
-</div>
+![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshs760&show_icons=true&theme=default&hide_border=true)
 
 ### 📫 Let's Connect
 
